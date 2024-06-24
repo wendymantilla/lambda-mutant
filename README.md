@@ -49,8 +49,8 @@ $ pylint $module_folder
 ## Api Rest
 
 The consumption of the lambda is done through a Rest api, these are its url:
--Metodo post https://odflfss7yb.execute-api.us-east-2.amazonaws.com/dev/isMutant 
--Metodo get  https://odflfss7yb.execute-api.us-east-2.amazonaws.com/dev/report
+- [Metodo post https://odflfss7yb.execute-api.us-east-2.amazonaws.com/dev/isMutant ]
+- [Metodo get  https://odflfss7yb.execute-api.us-east-2.amazonaws.com/dev/report]
 
 
 
