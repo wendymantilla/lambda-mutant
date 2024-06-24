@@ -14,11 +14,9 @@ It is a project developed in Python that is responsible for creating a matrix wh
 
 
 ## Test
+###  python3.10 -m pytest
 
-$ pytest
 If you have python version 3.10, this comonado runs
-$ python3.10 -m pytest
-
 ## Api Rest
 
 The consumption of the lambda is done through a Rest api, these are its url:
