@@ -13,38 +13,11 @@ It is a project developed in Python that is responsible for creating a matrix wh
 * `git clone git clone github.com:wendymantilla/bass-mutant.git` this repository
 
 
-You will need to run:
-
-```bash
-pip install
-```
-
 ## Test
 
-```bash
 $ pytest
-```
-### Unit Test Coverage
-
-```bash
-$ pytest
-```
-
-### Run with jobs
-
-```bash
-python main.py --job=dummy
-```
-
-## Code Style & Quality Checker
-
-```bash
-$ flake8 .
-
-$ black .
-
-$ pylint $module_folder
-```
+If you have python version 3.10, this comonado runs
+$ python3.10 -m pytest
 
 ## Api Rest
 

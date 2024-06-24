@@ -9,7 +9,7 @@ table = dynamodb.Table('mutant')
 
 
 @app.route('/')
-def handler(event):  # put application's code here
+def lambda_handler(event):  # put application's code here
     operation = event['operation']
 
     if operation == 'create':
